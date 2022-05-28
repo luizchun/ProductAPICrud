@@ -28,6 +28,7 @@ Estoque:3
 Valor:4
 
 - Banco já vem populado com os dados:
+
 | Id | Nome     | Estoque | Valor |
 |----|----------|---------|-------|
 | 1  | Bolsa    | 50      | 50.99 |
