@@ -14,7 +14,6 @@ Utilização de dotnet EF migrations para criar um banco de dados
 - Product.cs                     |Contem as classes e atributos
 
 - ProductControllerDb.cs         |Controlador onde está as operações de CRUD | O controlador utiliza banco de dados integrado: productDb
-- Banco já vem populado com os dados:
 
 - DatabaseModelSnapshot.cs       |Arquivo Modelo para criar o banco do EF migrations
 - 20220527035828_CreateInitial.cs|Arquivo com o resultado do migrations
@@ -28,6 +27,7 @@ Nome:2
 Estoque:3
 Valor:4
 
+- Banco já vem populado com os dados:
 | Id | Nome     | Estoque | Valor |
 |----|----------|---------|-------|
 | 1  | Bolsa    | 50      | 50.99 |
