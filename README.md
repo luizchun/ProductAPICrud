@@ -21,7 +21,7 @@ Utilização de dotnet EF migrations para criar um banco de dados
 ## Configurações
 - appsettings.json               |"DefaultConnection" : "server=localhost\\sqlexpress;database=productdb;trusted_connection=true"
 
-- Filtrar os produtos por diferentes campos(filterNum):
+-SWAGGER: Filtrar os produtos por diferentes campos( filterNum):
 Id:1
 Nome:2
 Estoque:3
